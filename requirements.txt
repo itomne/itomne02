@@ -1,0 +1,6 @@
+pip == 23.0.1
+Pillow == 9.4.0
+pandas == 1.5.3
+openai == 0.27.8
+streamlit == 1.24.1
+Image == 1.5.33
